@@ -1,83 +1,71 @@
-<h1 align=center>Merhaba, Ben [Adınınız/Soyadınız]! 👋</h1>
+<h1 align="center">Hi there, I'm [Your Name]! 👋</h1>
 
-<h3 align=center>Sürekli Öğrenen / Geliştirici / Teknoloji Tutkunu</h3>
+<h3 align="center">Open Source Enthusiast | Linux Advocate | System Developer</h3>
 
-<p align=center>
-<img src=https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DSENIN_GITHUB_KULLANICI_ADIN%26label%3DProfil%2BG%C3%B6r%C3%BCnt%C3%BClenme%26color%3D0e75b6%26style%3Dflat alt=Profil Görüntülenme Sayısı />
+<p align="center">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DYOUR_GITHUB_USERNAME%26label%3DProfile%2BViews%26color%3DFCC624%26style%3Dflat" alt="Profile Views" />
 </p>
 
-👨‍💻 Benim Hakkımda
+🐧 About Me
 
-Teknolojiye ve yazılım geliştirmeye tutkuyla bağlıyım. Yeni teknolojiler öğrenmeyi, karmaşık problemleri çözmeyi ve açık kaynak topluluğuna katkıda bulunmayı seviyorum.
+I am deeply passionate about open-source software and the Linux ecosystem. I love diving into system architectures, writing efficient scripts, and contributing to the community. The terminal is where I feel most at home!
 
-🔭 Şu anda üzerinde çalışıyorum: [Harika Projenin Adı veya Linki]
+🔭 Currently working on: [Name or Link of Open Source Project]
 
-🌱 Şu sıralar aktif olarak öğreniyorum: [Öğrendiğin Teknolojiler, örn: React, Node.js, Python]
+🌱 Currently exploring: [e.g., Kernel internals, Advanced C programming, Systems Design]
 
-👯 İşbirliği yapmaya açığım: [İlgilendiğin proje türleri, örn: Açık kaynak web projeleri]
+👯 Looking to collaborate on: [Open-source tools, CLI applications, Linux utilities]
 
-💬 Bana şunlar hakkında soru sorabilirsiniz: [Uzman olduğun konular, örn: JavaScript, Algoritmalar, UI/UX]
+💬 Ask me about: [Linux Distributions, Bash scripting, C, Python, Open Source]
 
-📫 Bana ulaşmak için: [E-posta Adresin]
+📫 How to reach me: [Your Email Address]
 
-📄 Özgeçmişimi görüntüleyin: [CV Linkin]
+⚡ Fun fact: [e.g., I have customized my Vim configuration more times than I can count!]
 
-⚡ Eğlenceli gerçek: [Seninle ilgili komik veya ilginç bir bilgi, örn: Kahve olmadan kod yazamam!]
+🛠️ Skills & Technologies
 
-🛠️ Yetenekler & Araçlar
-
-Buraya kullandığınız teknolojileri ekleyebilirsiniz. (Aşağıdakiler örnektir, kendi yeteneklerinize göre düzenleyin)
-
-💻 Programlama Dilleri
+💻 Languages
 
 <p>
-<img src=https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack alt=JavaScript />
-<img src=https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite alt=Python />
-<img src=https://www.google.com/search?q=https://img.shields.io/badge/TypeScript-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite alt=TypeScript />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" alt="C" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Bash-4EAA25%3Fstyle%3Dfor-the-badge%26logo%3Dgnu-bash%26logoColor%3Dwhite" alt="Bash" />
 </p>
 
-🌐 Frontend & Backend
+🐧 OS & Environments
 
 <p>
-<img src=https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB alt=React />
-<img src=https://www.google.com/search?q=https://img.shields.io/badge/Node.js-43853D%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite alt=Node.js />
-<img src=https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite alt=HTML5 />
-<img src=https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite alt=CSS3 />
-<img src=https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite alt=Tailwind CSS />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GNU-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgnu%26logoColor%3Dwhite" alt="GNU" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Ubuntu-E95420%3Fstyle%3Dfor-the-badge%26logo%3Dubuntu%26logoColor%3Dwhite" alt="Ubuntu" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Debian-A81D33%3Fstyle%3Dfor-the-badge%26logo%3Ddebian%26logoColor%3Dwhite" alt="Debian" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Arch_Linux-1793D1%3Fstyle%3Dfor-the-badge%26logo%3Darch-linux%26logoColor%3Dwhite" alt="Arch Linux" />
 </p>
 
-🧰 Veritabanı & Araçlar
+🧰 Tools
 
 <p>
-<img src=https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite alt=Git />
-<img src=https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-4EA94B%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite alt=MongoDB />
-<img src=https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-316192%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite alt=PostgreSQL />
-<img src=https://www.google.com/search?q=https://img.shields.io/badge/Docker-2CA5E0%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite alt=Docker />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2CA5E0%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Vim-019733%3Fstyle%3Dfor-the-badge%26logo%3Dvim%26logoColor%3Dwhite" alt="Vim" />
 </p>
 
-📊 GitHub İstatistiklerim
+📊 GitHub Stats
 
-<p align=center>
-<img src=https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSENIN_GITHUB_KULLANICI_ADIN%26show_icons%3Dtrue%26theme%3Dradium%26locale%3Dtr alt=GitHub İstatistikleri />
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_GITHUB_USERNAME%26show_icons%3Dtrue%26theme%3Dtokyonight" alt="GitHub Stats" />
 </p>
-<p align=center>
-<img src=https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DSENIN_GITHUB_KULLANICI_ADIN%26theme%3Dradium alt=GitHub Streak />
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DYOUR_GITHUB_USERNAME%26theme%3Dtokyonight" alt="GitHub Streak" />
 </p>
 
-🤝 İletişimde Kalalım
+🤝 Let's Connect
 
-<p align=left>
-<a href=https://www.google.com/search?q=https://linkedin.com/in/SENIN_LINKEDIN_ADRESIN target=_blank>
-<img src=https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite alt=LinkedIn />
+<p align="left">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
 </a>
-<a href=https://www.google.com/search?q=https://twitter.com/SENIN_TWITTER_ADRESIN target=_blank>
-<img src=https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite alt=Twitter />
+<a href="https://www.google.com/search?q=https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/X-000000%3Fstyle%3Dfor-the-badge%26logo%3Dx%26logoColor%3Dwhite" alt="X (Twitter)" />
 </a>
-<a href=https://SENIN_PORTFOLYO_SITEN.com target=_blank>
-<img src=https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-255E63%3Fstyle%3Dfor-the-badge%26logo%3DWeb%26logoColor%3Dwhite alt=Portfolio />
-</a>
-</p>
-
-<p align=center>
-<img src=https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3DtimeGradient%26height%3D100%26section%3Dfooter />
 </p>
